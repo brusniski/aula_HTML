@@ -8,3 +8,8 @@ header{
     text-size-adjust: 75px;
     justify-content:center;
 }
+section{
+background-color: brown;
+margin:50px;
+display:flex;
+}
