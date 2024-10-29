@@ -4,14 +4,14 @@ color:black;
 }
 header{
     margin: 50px;
-    background-color: aqua;
+    background-color:brown;
     text-size-adjust: 75px;
     justify-content:center;
 }
 section{
-background-color: brown;
+background-color: rgb(42, 71, 165);
 margin:50px;
 display:flex;
-padding-top: 60px;
-padding-bottom: 60px;
+padding-top: 100px;
+padding-bottom: 120px;
 }
