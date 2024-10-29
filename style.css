@@ -7,6 +7,7 @@ header{
     background-color:#9264D9;
     text-size-adjust: 75px;
     justify-content:center;
+    border:solid 5px rgb (#212B48)
 }
 section{
 background-color: rgb(42, 71, 165);
