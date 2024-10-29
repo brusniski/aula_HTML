@@ -12,4 +12,6 @@ section{
 background-color: brown;
 margin:50px;
 display:flex;
+padding-top: 60px;
+padding-bottom: 60px;
 }
